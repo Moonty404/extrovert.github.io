@@ -11,7 +11,7 @@ const API = "https://discord-web-api.glitch.me/discord/user/";
 const owners = [
     {
         "id": "754912714727358504",
-        "post": "Owner of Bot",
+        "post": "Developer And Owner",
         "GHURL": "https://github.com/RaMaa404",
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/c/codelost404"
