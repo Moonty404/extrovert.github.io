@@ -3,7 +3,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    background-color: #113652;
+    background-color: #010d4d;
 }
 .bgn {
     background-color: black;
@@ -44,7 +44,7 @@ padding: 60px 50px !important;
 }
 .bgseconde {
     padding-bottom: 150px;
-    background-color: #4b8dbf;
+    background-color: #072e91;
 
 }
 .ttjoin {
