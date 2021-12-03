@@ -13,7 +13,7 @@ const owners = [
         "id": "754912714727358504",
         "post": "Developer And Owner",
         "GHURL": "https://github.com/RaMaa404",
-        "InstaURL": "",
+        "InstaURL": "https://instagram.com/itsme_rama404?r=nametag",
         "YTURL": "https://www.youtube.com/c/codelost404"
     }
 ]
