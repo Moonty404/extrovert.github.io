@@ -3,7 +3,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    background-color: #14c431;
+    background-color: #13cf16;
 }
 .bgn {
     background-color: black;
@@ -362,4 +362,4 @@ ul.social-icons {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: rgb(84, 81, 81); 
-  }
+  
