@@ -1,5 +1,5 @@
 /*
-THIS CODE BY LWJerri#3290
+
 */
 const boxOwners = document.getElementById("owners_list");
 /*
@@ -14,7 +14,7 @@ const owners = [
         "post": "Developer And Owner",
         "GHURL": "https://github.com/RaMaa404",
         "InstaURL": "",
-        "TYURL": "https://instagram.com/itsme_rama404?r=nametag"
+        "TYURL": "https://www.snapchat.com/add/itzz_monty3?share_id=MjEwMjA0&locale=en_US"
     }
 ]
 
